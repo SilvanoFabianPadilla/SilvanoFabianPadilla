@@ -5,16 +5,14 @@
 
 - 🌱 Actualmente estoy aprendiendo **todo lo que sea relacionado en programación.**
 
-- 💬 Preguntame sobre **lo que les guste.**
-
 - 📫 Como llegar a mi **fabianpadilla39@aragon.unam.mx**
 
 - ⚡ Hecho de la diversión **soy divertido, alegre y aplicado.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/silvano fabian padilla lozano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="silvano fabian padilla lozano" height="30" width="40" /></a>
-<a href="https://instagram.com/fabiruchis2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabiruchis2121" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/silvanofabian.padillalozano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/silvanofabian.padillalozano" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/fabiruchis2121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fabiruchis2121/" height="30" width="40" /></a>
 <a href="https://discord.gg/fabiruchis#6054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fabiruchis#6054" height="30" width="40" /></a>
 </p>
 
